@@ -1,0 +1,62 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Environment variables file
+.env
+
+# VS Code settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Logs
+*.log
+
+# Python profiler files
+.prof
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Streamlit cache
+.streamlit/
+
+# PDFs (if you want to ignore uploaded/processed PDFs, uncomment)
+# pdf_files/
+
+# macOS files
+.DS_Store
+
+# PyCharm files
+.idea/
+
+# pytype static analyzer
+.pytype/
+
+# pytest cache
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# mypy cache
+.mypy_cache/
+
+# VS Code extensions/settings
+.history/
+
+# Other OS files
+Thumbs.db
